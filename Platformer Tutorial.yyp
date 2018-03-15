@@ -301,6 +301,14 @@
                 "resourcePath": "views\\f72ede7e-7ac8-4f33-b1a5-9f1dab6fdad3.yy",
                 "resourceType": "GMFolder"
             }
+        },
+        {
+            "Key": "fac7a9b0-40e8-48c0-a0a1-d684ab893c05",
+            "Value": {
+                "id": "3fcf042b-8f04-46ac-9ad6-ea606be68f37",
+                "resourcePath": "objects\\oDead\\oDead.yy",
+                "resourceType": "GMObject"
+            }
         }
     ],
     "script_order": [
