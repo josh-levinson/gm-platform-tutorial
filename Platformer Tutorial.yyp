@@ -39,6 +39,22 @@
             }
         },
         {
+            "Key": "0a4749e4-09f4-4396-ac68-046c296c1a77",
+            "Value": {
+                "id": "175ca07d-4a4d-4417-9a63-6c3a85819fb7",
+                "resourcePath": "rooms\\room1\\room1.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "0e90620c-3535-45dc-a1e0-8929369afc9a",
+            "Value": {
+                "id": "c3ab5143-1402-47fd-a502-5884a787407e",
+                "resourcePath": "objects\\oLevelEnd\\oLevelEnd.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "10677a44-b6e6-4f1c-8c7f-38d05e0361e9",
             "Value": {
                 "id": "89116a29-4b4e-4f42-b26e-6b3a23905180",
@@ -143,6 +159,14 @@
             }
         },
         {
+            "Key": "5d185d54-77bf-41ce-abe0-ab33b7dd2172",
+            "Value": {
+                "id": "6522e6c3-f209-4303-9d56-601ea07638c7",
+                "resourcePath": "sprites\\sTrigger\\sTrigger.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "65905f0f-39bb-4afa-be89-e154d460d64d",
             "Value": {
                 "id": "ad44c5b5-2e30-44d0-92ce-5430b1ede5b2",
@@ -223,6 +247,14 @@
             }
         },
         {
+            "Key": "8e9526a6-1a8d-419f-b6fd-38c14fada05b",
+            "Value": {
+                "id": "7b8e9f13-7b6f-4981-9282-dfd66929cd0a",
+                "resourcePath": "objects\\oTransition\\oTransition.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "91c98d5f-b054-4c83-8f9d-a2766d783140",
             "Value": {
                 "id": "42cb141b-0a38-4c7c-872d-bc97a2055fa4",
@@ -252,6 +284,14 @@
                 "id": "4872d6bf-2a3e-4ac1-9f45-52195b7f4dc0",
                 "resourcePath": "sprites\\sBullet\\sBullet.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "c248daa6-5a2a-4acb-a994-b8cb4e532ab7",
+            "Value": {
+                "id": "a682e411-378c-4a4a-a157-4ff5a49e0fd5",
+                "resourcePath": "scripts\\SlideTransition\\SlideTransition.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -336,7 +376,7 @@
         }
     ],
     "script_order": [
-        
+        "c248daa6-5a2a-4acb-a994-b8cb4e532ab7"
     ],
     "tutorial": ""
 }
